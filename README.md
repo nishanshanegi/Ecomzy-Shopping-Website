@@ -1,6 +1,6 @@
 <H1>Ecomzy Shopping Website</H1>
 <p>A modern e-commerce shopping cart application built with React, Tailwind CSS, and Redux. This project allows users to manage their shopping cart with real-time updates and a responsive design, providing a smooth and interactive shopping experience.</p>
-
+<img src="public\image-1280x640.jpg">
 <h2>Introduction</h2>
 <p>Ecomzy Shopping Website is designed to offer a seamless shopping experience with a dynamic and responsive interface. Leveraging React for a reactive UI, Tailwind CSS for styling, and Redux for state management, this application supports real-time cart updates and user-friendly interactions.</p>
 <h2>Usage</h2>
